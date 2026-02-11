@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Blowing",
+  "base_artist": "NiL",
+  "createdAt": "2026-02-11T04:03:54.448236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Faintly Blowing",
+      "artist": "Kaleidoscope",
+      "has_synced": false,
+      "path": "select/01_Faintly_Blowing_Kaleidoscope.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "North Winds Blowing",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/02_North_Winds_Blowing_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blowing Kisses In The Wind",
+      "artist": "Paula Abdul",
+      "has_synced": true,
+      "path": "select/03_Blowing_Kisses_In_The_Wind_Paula_Abdul.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blowing Fire",
+      "artist": "The Joy Formidable",
+      "has_synced": false,
+      "path": "select/04_Blowing_Fire_The_Joy_Formidable.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blowing Down",
+      "artist": "Digable Planets",
+      "has_synced": false,
+      "path": "select/05_Blowing_Down_Digable_Planets.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blowing out the Flame",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/06_Blowing_out_the_Flame_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blowing In the Mind",
+      "artist": "John Maus",
+      "has_synced": true,
+      "path": "select/07_Blowing_In_the_Mind_John_Maus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blowing in the Mind (feat. Ariel Pink)",
+      "artist": "John Maus",
+      "has_synced": true,
+      "path": "select/08_Blowing_in_the_Mind_(feat._Ariel_Pink)_John_Maus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blowing Up",
+      "artist": "T-Pain feat. Ciara",
+      "has_synced": true,
+      "path": "select/09_Blowing_Up_T-Pain_feat._Ciara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blowing Up (Feat. Ciara)",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/10_Blowing_Up_(Feat._Ciara)_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blowing Away - Digitally Remastered 1997",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/11_Blowing_Away_-_Digitally_Remastered_1997_The_5th_Dimension.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blowing Away (Digitally Remastered 1997)",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/12_Blowing_Away_(Digitally_Remastered_1997)_The_5th_Dimension.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blowing Away - Remastered",
+      "artist": "The 5th Dimension",
+      "has_synced": true,
+      "path": "select/13_Blowing_Away_-_Remastered_The_5th_Dimension.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blowing in the Wind",
+      "artist": "Bob Dylan",
+      "has_synced": false,
+      "path": "select/14_Blowing_in_the_Wind_Bob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep Me from Blowing Away",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/15_Keep_Me_from_Blowing_Away_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blowing",
+      "artist": "NiL",
+      "has_synced": true,
+      "path": "select/16_Blowing_NiL.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blowing in the Wind",
+      "artist": "Peter, Paul and Mary",
+      "has_synced": true,
+      "path": "select/17_Blowing_in_the_Wind_Peter,_Paul_and_Mary.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Whistle Is Blowing",
+      "artist": "The New Basement Tapes",
+      "has_synced": true,
+      "path": "select/18_The_Whistle_Is_Blowing_The_New_Basement_Tapes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blowing",
+      "artist": "NiL",
+      "has_synced": false,
+      "path": "select/pl_01_Blowing_NiL.txt"
+    }
+  ]
+}
